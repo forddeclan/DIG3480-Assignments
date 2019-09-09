@@ -1,2 +1,4 @@
 # hello-world
-my first assignment for DIG3480
+this is a test
+
+I am figuring out how to use Github
